@@ -1,0 +1,8 @@
+
+name="Nigel's Kodi Build"
+url="https://www.dropbox.com/s/pwpj736qf7yc5a2/testbuild.zip?dl=1"
+img="http://addons.superrepo.org/plugin.video.flyinhd/fanart.jpg"
+fanart="http://addons.superrepo.org/plugin.video.flyinhd/fanart.jpg"
+description="My new Wizard with help from Husham"
+
+
